@@ -1,2 +1,3 @@
 my first git practice 
 I am learning Git step by step. 
+My code is now on Github 
